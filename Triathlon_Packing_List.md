@@ -1,5 +1,11 @@
 # Triathlon packing list
 
+* Sports Watches
+* Passport (photo ID)
+* Cash
+* Phone + watch charger
+* Extra bag for wet clothes
+
 ## Swimming
 
 * Trisuit

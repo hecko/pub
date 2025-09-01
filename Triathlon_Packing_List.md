@@ -19,12 +19,15 @@
 # Bike
 
 * Bike
+  * Check tire pressure
+  * Check brakes
 * Helmet
 * Sunglasses
 * Running shoes
 * Socks
 * Gels
 * Water bottle + minerals
+* Bike pump
 
 # Running
 

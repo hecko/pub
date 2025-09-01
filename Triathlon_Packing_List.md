@@ -12,8 +12,10 @@
 ## Swimming
 
 * Trisuit
+  * Check the zipper
 * Swim cap (provided?)
 * Goggles
+* Anti-fog gel
 * Wetsuit (depends on water temperature)
 
 # Bike

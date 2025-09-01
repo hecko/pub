@@ -5,6 +5,9 @@
 * Cash
 * Phone + watch charger
 * Extra bag for wet clothes
+* Petrol in the car
+* Towel
+* Extra water
 
 ## Swimming
 
